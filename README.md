@@ -1,3 +1,3 @@
 # banking_go
 
-current account management
+A simple current account management with golang
